@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BlobMounter.App/BlobMounter.App.csproj" />
+    <Project Path="src/BlobMounter.Core/BlobMounter.Core.csproj" />
+    <Project Path="src/BlobMounter.Tests/BlobMounter.Tests.csproj" />
+  </Folder>
+</Solution>
