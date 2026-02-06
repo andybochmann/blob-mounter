@@ -27,7 +27,7 @@ Mount Azure Blob Storage containers as Windows drive letters. Browse, read, writ
 ### Build from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/blob-mounter.git
+git clone https://github.com/andybochmann/blob-mounter.git
 cd blob-mounter
 dotnet build
 dotnet run --project src/BlobMounter.App
