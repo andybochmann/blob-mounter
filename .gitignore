@@ -37,6 +37,9 @@ bld/
 ## VS Code
 .vscode/
 
+## Publish output
+publish/
+
 ## OS files
 Thumbs.db
 ehthumbs.db
