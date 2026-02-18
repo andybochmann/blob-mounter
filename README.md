@@ -6,6 +6,8 @@ Mount Azure Blob Storage containers as Windows drive letters. Browse, read, writ
 ![Windows](https://img.shields.io/badge/platform-Windows-0078D6)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
+![BlobMounter screenshot](screenshot.png)
+
 ## Features
 
 - Mount any Azure Blob Storage container as a local drive letter (e.g. `Z:`)
